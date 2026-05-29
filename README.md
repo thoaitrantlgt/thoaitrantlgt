@@ -15,12 +15,12 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Tran Le Gia Thoai"
         self.role        = "Data Scientist & AI/ML Engineer"
         self.location    = "Ho Chi Minh City, Vietnam 🇻🇳"
-        self.languages   = ["Python", "SQL", "R", "Scala"]
+        self.languages   = ["Python", "SQL", "C++"]
         self.focus       = ["Deep Learning", "NLP", "MLOps", "Data Engineering"]
-        self.education   = "B.Sc / M.Sc in Computer Science / Data Science"
+        self.education   = "B.Sc in Computer Science"
         self.currently   = "Building production-ready ML pipelines"
         self.interests   = ["AI Research", "Open Source", "Competitive Data Science"]
 
